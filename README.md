@@ -1,3 +1,8 @@
+****If you want to run this project  , first , you need to json-server run with cli(npm run serve-json)***
+json server will run in http://localhost:4000/...
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
